@@ -1,4 +1,6 @@
-<?php namespace Nicolaslopezj\Searchable;
+<?php 
+
+namespace jair921\Searchable;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Facades\Config;
